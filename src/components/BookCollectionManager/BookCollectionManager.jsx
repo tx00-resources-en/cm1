@@ -24,7 +24,7 @@ function BookCollectionManager() {
       setAuthor(""); // Clear the input fields
     }
   }
-
+ 
   // Delete a book from the list
   function deleteBook(index) {
     const updatedBooks = books.filter((_, i) => i !== index);
