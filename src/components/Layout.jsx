@@ -1,6 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import "./Layout.css";
- 
+
 const Layout = () => {
   return (
     <>
@@ -35,3 +35,4 @@ const Layout = () => {
 };
 
 export default Layout;
+

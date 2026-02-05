@@ -1,5 +1,6 @@
 nav {
-  background-color: #1E3A8A; /* Blue background */
+  background-color: #1E3A8A;
+  /* Blue background */
   color: #fff;
   padding: 1rem;
 }
@@ -8,7 +9,7 @@ ul {
   list-style: none;
   padding: 0;
 }
- 
+
 li {
   display: inline;
   margin-right: 1rem;
@@ -20,7 +21,8 @@ li {
 }
 
 .navbar a:hover {
-  color: #93C5FD; /* Light blue hover color */
+  color: #93C5FD;
+  /* Light blue hover color */
 }
 
 .active {
@@ -34,7 +36,8 @@ li {
 
 .page-content h1 {
   font-size: 2rem;
-  color: #1E3A8A; /* Blue color */
+  color: #1E3A8A;
+  /* Blue color */
 }
 
 .page-content p {

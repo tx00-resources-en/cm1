@@ -1,5 +1,3 @@
-import React from 'react'
-
 function SignupPage() {
   return (
     <div>
@@ -9,4 +7,3 @@ function SignupPage() {
 }
 
 export default SignupPage
- 

@@ -14,6 +14,7 @@
   - [ ] Is the code easy to understand for other developers?
   - [ ] Are variable and function names descriptive and meaningful?
 
+
 - **Reusability**
   - [ ] Can the component or parts of it be reused in other parts of the application?
 

@@ -6,6 +6,7 @@
   - [ ] Are edge cases handled (e.g., empty inputs, duplicate entries)?
   - [ ] Are there any bugs or unexpected behaviors?
 
+
 - **How well does the component integrate with other parts of the application?**
   - [ ] Are props and state managed appropriately?
 

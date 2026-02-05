@@ -9,6 +9,7 @@
 - **How well does the component integrate with other parts of the application?**
   - [ ] Are props and state managed appropriately?
 
+
 ## 2. Code Quality
 - **Readability**
   - [ ] Is the code easy to understand for other developers?
